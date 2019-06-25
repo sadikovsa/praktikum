@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Chocolate';
+    src: url('Chocolate.otf');
+    src: local('Chocolate Regular'), local('Chocolate-Regular'),
+        url('Chocolate.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

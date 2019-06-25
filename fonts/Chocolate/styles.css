@@ -1,0 +1,10 @@
+
+@font-face {
+  font-family: 'Chocolatecyr';
+  src: url('Chocolatecyr-lat.eot?#iefix') format('embedded-opentype'),  
+  url('Chocolatecyr-lat.woff') format('woff'), 
+  url('Chocolatecyr-lat.ttf')  format('truetype'), 
+  url('Chocolatecyr-lat.svg#Chocolatecyr-lat') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

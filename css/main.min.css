@@ -13,6 +13,7 @@
 @import url(../libs/fancyBox/jquery.fancybox.min.css);
 @import url(../fonts/FiraSans/stylesheet.css);
 @import url(../fonts/Montserrat/stylesheet.css);
+@import url(../fonts/Chocolate/styles.css);
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -7595,6 +7596,9 @@ body {
       border-color: red; }
     body input:required:valid, body textarea:required:valid {
       border-color: green; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Chocolatecyr', 'Montserrat', sans-serif !important; }
 
 a {
   text-decoration: none;
